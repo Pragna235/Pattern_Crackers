@@ -8,7 +8,7 @@ public class PatternDemo {
 		int n = input.nextInt();
 
 
-		Patterns1.pattern12(n);
+		Patterns.pattern12(n);
 
 	}
 

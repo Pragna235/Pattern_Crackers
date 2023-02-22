@@ -1,3 +1,12 @@
+/*Enter the value of n = 
+5
+1 
+1 2 
+1 2 3 
+1 2 3 4 
+1 2 3 4 5 
+*/
+
 package patternSums;
 
 public class Patterns {

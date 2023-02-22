@@ -1,3 +1,17 @@
+/*Enter the value of n = 
+5
+* 
+* * 
+* * * 
+* * * * 
+* * * * * 
+* * * * 
+* * * 
+* * 
+* 
+
+*/
+
 package patternSums;
 
 public class Patterns {

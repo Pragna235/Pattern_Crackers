@@ -1,3 +1,15 @@
+/*Enter the value of n = 
+7
+      *
+     * *
+    *   *
+   *     *
+  *       *
+ *         *
+*************
+*/
+
+
 //pattern13
 		public static void pattern13(int n)
 		{
